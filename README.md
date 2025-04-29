@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction using Scikit-learn
+# Diabetes Prediction using Scikit-learn
 
 This project builds a complete Machine Learning workflow using Scikit-learn to predict whether a patient has diabetes based on input features like age, BMI, blood pressure, etc.
 
