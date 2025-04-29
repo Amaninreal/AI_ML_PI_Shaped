@@ -59,7 +59,7 @@ This project builds a complete Machine Learning workflow using Scikit-learn to p
 
 ---
 
-## 🛠️ Key Techniques Used
+## Key Techniques Used
 
 - **Label Encoding** for categorical data.
 - **StandardScaler** for feature scaling.
